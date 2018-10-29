@@ -11,6 +11,7 @@ namespace SampleProject
         static void Main(string[] args)
         {
             Console.WriteLine("Main");
+            //ekana mia allagi evala ayto to sxolio
             Console.ReadKey();
         }
     }
